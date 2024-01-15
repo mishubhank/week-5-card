@@ -1,0 +1,27 @@
+.card {
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 2px;
+    display: block;
+    width: 550px;
+    height: 250px;
+    /* -moz-background-clip: ; */
+margin: 50px;
+padding: 30px;
+
+}
+.description {
+    background-color: blue;
+ color :aquamarine;
+
+}
+ .socialb {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0 5px;
+    border-radius: 5px;
+    background-color: #007BFF;
+    display: inline-block;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
